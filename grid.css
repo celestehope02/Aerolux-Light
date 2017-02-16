@@ -5,4 +5,4 @@ body { margin: 40px; }
 .b { grid-column: 3 ; grid-row: 1 / span 2; }
 .c { grid-column: 1 ; grid-row: 2 ; }
 .d { grid-column: 2 ; grid-row: 2 ; }
-div { background: linear-gradient(to top right, #d2daed 0%, #eedfde 100%); }
+div { background: linear-gradient(to bottom right, #00ffff 0%, #1b4b35 100%); }
